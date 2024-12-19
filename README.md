@@ -1,0 +1,1 @@
+This example demonstrates a common error in Ada programming related to subtype range checks.  The code appears correct at first glance, but a runtime error occurs if the value of X exceeds the defined range of the subtype My_Sub. This repository provides the buggy code and a corrected version demonstrating how to prevent this type of runtime error.
